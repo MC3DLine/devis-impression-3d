@@ -1,0 +1,18 @@
+Type,Matériau,Prix unitaire HT,Unité
+FDM,PLA,35,kg
+FDM,ABS,45,kg
+FDM,PETG,40,kg
+FDM,Nylon,70,kg
+SLA,Standard,150,Litre
+SLA,Clear,150,Litre
+SLA,Tough,187.50,Litre
+SLA,Flexible,225,Litre
+SLA,Rigid,225,Litre
+SLA,High Temp,225,Litre
+
+Prestation,Tarif horaire HT,
+Conception,65,
+Consulting,45,
+Post-traitement,40,
+Machine FDM,3,
+Machine SLA,5,
